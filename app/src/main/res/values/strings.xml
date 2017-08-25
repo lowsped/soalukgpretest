@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PRETEST UKG</string>
+    <string name="label_welcome">Welcome to Trivia App</string>
+    <string name="btn_exit">EXIT</string>
+    <string name="btn_start_trivia">Kerjakan Soal</string>
+    <string name="btn_previous">Previous</string>
+    <string name="btn_next">Next</string>
+    <string name="label_correct_answers">Jawaban Kamu dan Kuncinya</string>
+    <string name="your_performance">Nilai Kamu:</string>
+    <string name="finish_button">FINISH</string>
+    <string name="banner_ad_unit_id">ca-app-pub-1142409875326374/8878594931</string>
+</resources>
